@@ -1,3 +1,10 @@
+<h1 align="center">
+WARNING - COPY OF REPO NOT ORIGINAL 
+</h1>
+<p></p>
+<p></p>
+
+
 # Mem0 Chrome Extension — Cross-LLM Memory
 
 Mem0 brings ChatGPT-style memory to all your favorite AI assistants. Share context seamlessly across ChatGPT, Claude, Perplexity, and more, making your AI interactions more personalized and efficient.
